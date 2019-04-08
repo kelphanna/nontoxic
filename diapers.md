@@ -6,7 +6,7 @@ Chemical | Issue
 --- | ---
 tributyltin (TBT) | endocrine disrupter; environmental pollutant
 volatile organic compounds (VOCs) | toluene, ethylbenzene, and xylene: can evaporate and impair immune function and damage liver, kidneys, respiratory system, and lungs
-fragrances | can be phthalates (endocrine disruptors); other chemicals can cause rashes, allergic reactions, and other health hazards
+fragrances | can include phthalates (endocrine disruptors); other chemicals can cause rashes, allergic reactions, and other health hazards
 
 ## Options
 
